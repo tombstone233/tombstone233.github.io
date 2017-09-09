@@ -3,8 +3,8 @@ title: 百鬼夜行街 by夏笳
 date: 2017-09-07 17:41:36
 tags: 小说
 ---
-百鬼夜行街 by夏笳
-#### 摘自《科幻世界》2010年8月刊
+<blockquote class="blockquote-center">百鬼夜行街 by夏笳</blockquote>
+<blockquote class="blockquote-left">摘自《科幻世界》2010年8月刊</blockquote>
 <!-- more -->
 #### 惊蛰
 
