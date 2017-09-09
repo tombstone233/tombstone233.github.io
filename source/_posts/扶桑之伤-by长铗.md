@@ -4,7 +4,7 @@ date: 2017-09-09 15:03:05
 tags: 小说
 ---
 <blockquote class="blockquote-center">扶桑之伤 by长铗</blockquote>
-<blockquete class="blockquote-left">摘自《科幻世界》2008年11月刊</blockquote>
+<blockquote class="blockquote-left">摘自《科幻世界》2008年11月刊</blockquote>
 <!-- more -->
 &emsp;&emsp;那是一个炎热的夏天，一场热带风暴刚刚袭击了这座城市，科学家用一个日本神话里的女神名字命名了这场飓风，但对我来说，这场飓风的名字叫金小蔚，她们一样的神秘，一样的雷厉风行，一样在扬长而去之后，让你依然沉浸在她君临天下的震撼里。 
 &emsp;&emsp;金小蔚是个插班生，由于她到来的缘故，我们深刻的感觉到这个夏天的湿润、燥热以及黏滑，很多人开始找不到黑板的方向。 
