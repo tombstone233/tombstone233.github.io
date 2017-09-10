@@ -3,9 +3,10 @@ title: 百鬼夜行街 by夏笳
 date: 2017-09-07 17:41:36
 tags: 小说
 ---
-<blockquote class="blockquote-center">百鬼夜行街 by夏笳</blockquote>
+<blockquote class="blockquote-center" style="font-size:26px;">百鬼夜行街 by夏笳</blockquote>
 <blockquote class="blockquote-left">摘自《科幻世界》2010年8月刊</blockquote>
 <!-- more -->
+
 #### 惊蛰
 
 &emsp;&emsp;鬼街的街道细而长，像一根青幽幽的衣带，从南到北不过十一步，从东到西却可以走一个时辰。
