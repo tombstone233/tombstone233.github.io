@@ -22,7 +22,7 @@
 </div>
 
 {% if theme.copyright %}
-  <div class="powered-by">{#
+  <!-- div class="powered-by">{#
   #}{{ __('footer.powered', '<a class="theme-link" href="https://hexo.io">Hexo</a>') }}{#
 #}</div>
 
@@ -34,4 +34,5 @@
     #}NexT.{{ theme.scheme }}{#
   #}</a> v{{ theme.version }}{#
 #}</div>
+-->
 {% endif %}
