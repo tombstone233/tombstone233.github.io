@@ -2,6 +2,7 @@
 title: 扶桑之伤 by长铗
 date: 2017-09-09 15:03:05
 tags: 小说
+categories: 小说
 ---
 <blockquote class="blockquote-center" style="font-size:26px;">扶桑之伤 by长铗</blockquote>
 <blockquote class="blockquote-left">摘自《科幻世界》2008年11月刊</blockquote>
