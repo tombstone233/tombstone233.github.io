@@ -348,4 +348,4 @@ git push origin hexo
 ```
 &emsp;&emsp;这样我们就完成了备份工作。
 
-&emsp;&emsp;Open source spirit, immortal!
+&emsp;&emsp;*Open source spirit, immortal!*
