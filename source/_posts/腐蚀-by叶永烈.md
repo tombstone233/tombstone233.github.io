@@ -4,7 +4,6 @@ date: 2017-09-10 22:08:50
 tags: 小说
 categories: 小说
 ---
-<blockquote class="blockquote-center" style="font-size:26px;">腐蚀 by叶永烈</blockquote>
 <blockquote class="blockquote-left">摘自《科幻世界》20周年纪念刊</blockquote>
 <!-- more -->
 

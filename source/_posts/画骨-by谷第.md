@@ -4,7 +4,6 @@ date: 2017-09-12 15:40:39
 tags: 小说
 categories: 小说
 ---
-<blockquote class="blockquote-center" style="font-size:26px;">画骨 by谷第</blockquote>
 <blockquote class="blockquote-left">摘自《科幻世界》2017年1月刊</blockquote>
 <!-- more -->
 

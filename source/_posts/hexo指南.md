@@ -4,7 +4,7 @@ date: 2017-09-23 22:45:55
 tags: hexo
 categories: 技术
 ---
-这是一篇hexo指南
+<blockquote class="blockquote-left">这是一篇hexo指南</blockquote>
 <!--more-->
 # 环境部署
 
